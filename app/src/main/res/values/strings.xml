@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Spesa In Famiglia</string>
+    <string name="tab_text_1">Lista personale</string>
+    <string name="tab_text_2">Lista condivisa</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="fragment1">LISTA 1</string>
+    <string name="fragment2">LISTA 2</string>
+
+    <string name="vai">Vai</string>
+
+</resources>
